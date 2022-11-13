@@ -16,5 +16,5 @@ async def test_multiplier(dut):
 		for j in range(0, 16):
 			dut._log.info(f'{ins_1[i]} * {ins_2[j]}')
 			dut.din1.value = ins_2[j]
-			await Timer(1, units="ps")
+			await Timer(5, units="ps")
 			assert dut.dout.value == ins_1[i] * ins_2[j]
