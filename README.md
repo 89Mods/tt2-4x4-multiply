@@ -17,3 +17,5 @@ This is a submission for TinyTapeout 2 of a circuit that multiplies two 4-bit nu
 | B1 -      | --- | - R5                      |
 | B2 -      | --- | - R6                      |
 | B3 -      | --- | - R7                      |
+
+![circuit schematic](https://raw.githubusercontent.com/89Mods/tt2-4x4-multiply/main/circuit.png)
