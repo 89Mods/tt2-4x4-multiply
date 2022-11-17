@@ -16,6 +16,7 @@ project:
 #
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation:
+  discord_username: "Tholin#7559"
   author:       "Tholin"      # Your name
   title:        "TinyTapeout2 4-bit multiplier."      # Project title
   description:  "Multiplies two 4-bit numbers presented on the input pins and outputs an 8-bit result."      # Short description of what your project does
